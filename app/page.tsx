@@ -11,13 +11,21 @@ export default function Home() {
         <span className="bg-black text-white px-2 py-1 text-xs">ONLINE</span>
       </header>
       <section className="space-y-6">
-        <div className="border-4 border-black p-4 inline-block uppercase text-xs font-bold">{item.tipo} // {item.vibe}</div>
+        <div className="border-4 border-black p-4 inline-block uppercase text-xs font-bold">
+          {item.tipo} // {item.vibe}
+        </div>
         <h2 className="text-5xl font-black leading-tight uppercase">{item.titulo}</h2>
         <p className="text-xl font-bold">{item.autor}</p>
-        <p className="text-lg leading-relaxed border-l-4 border-black pl-4 py-2 italic">"{item.resena}"</p>
+        <p className="text-lg leading-relaxed border-l-4 border-black pl-4 py-2 italic">
+          "{item.resena}"
+        </p>
         <div className="pt-8 space-y-4">
-          <a href={item.link} className="block bg-black text-white text-center py-6 text-xl font-black border-4 border-black">CONSEGUIR COPIA</a>
-          <button className="block w-full border-4 border-black py-4 font-black uppercase">ARCHIVO [🔒]</button>
+          <a href={item.link} className="block bg-black text-white text-center py-6 text-xl font-black border-4 border-black transition-all hover:bg-white hover:text-black">
+            CONSEGUIR COPIA
+          </a>
+          <button className="block w-full border-4 border-black py-4 font-black uppercase tracking-taler hover:bg-black hover:text-white transition-all">
+            ARCHIVO HISTÓRICO [🔒]
+          </button>
         </div>
       </section>
     </main>
