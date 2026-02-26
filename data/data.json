@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "tipo": "disco",
+    "titulo": "the downward spiral",
+    "autor": "nine inch nails",
+    "resena": "trent reznor construyó una catedral de odio y la incendió desde adentro. no es un álbum, es una autopsia emocional. cada pista es un órgano que falla. escucharlo en soledad es un ritual de iniciación para quienes ya no creen en nada pero todavía sienten demasiado.",
+    "vibe": "nihilista",
+    "link_afiliado": "https://www.discogs.com/PLACEHOLDER-downward-spiral"
+  },
+  {
+    "id": 2,
+    "tipo": "disco",
+    "titulo": "doolittle",
+    "autor": "pixies",
+    "resena": "black francis gritó hasta que el pop se rompió y de las grietas salió algo mejor. violencia doméstica, bíblica y sónica empaquetada como single de radio. la prueba de que lo mainstream puede ser un accidente de laboratorio. nadie entendió por qué funcionaba y eso lo hace perfecto.",
+    "vibe": "esquizofrénico",
+    "link_afiliado": "https://www.discogs.com/PLACEHOLDER-doolittle"
+  },
+  {
+    "id": 3,
+    "tipo": "disco",
+    "titulo": "definitely maybe",
+    "autor": "bark psychosis",
+    "resena": "no el de oasis. el post-rock antes de que tuviera nombre. graham sutton grabó el sonido del capitalismo colapsando en cámara lenta sobre una ciudad gris. una hora de niebla convertida en frecuencia. los que lo escucharon primero todavía no se recuperaron.",
+    "vibe": "espectral",
+    "link_afiliado": "https://www.discogs.com/PLACEHOLDER-bark-psychosis-definitely-maybe"
+  },
+  {
+    "id": 4,
+    "tipo": "disco",
+    "titulo": "music has the right to children",
+    "autor": "boards of canada",
+    "resena": "electrónica hecha con cintas viejas y nostalgia contaminada. suena a un recuerdo que nunca tuviste pero que duele como si lo hubieras perdido. los hermanos sandison codificaron mensajes en frecuencias que tu cerebro decodifica como angustia infantil. perfecto e inquietante.",
+    "vibe": "amnésico",
+    "link_afiliado": "https://www.discogs.com/PLACEHOLDER-music-right-children"
+  },
+  {
+    "id": 5,
+    "tipo": "disco",
+    "titulo": "hex; or printing in the infernal method",
+    "autor": "earth",
+    "resena": "dylan carlson ralentizó el drone hasta que el tiempo se detuvo. country apocalíptico para pistoleros fantasma. cada acorde tarda minutos en morir y en ese silencio vive algo que ningún terapeuta puede tratar. la banda sonora del oeste después de que dios se fue.",
+    "vibe": "árido",
+    "link_afiliado": "https://www.discogs.com/PLACEHOLDER-earth-hex"
+  },
+  {
+    "id": 6,
+    "tipo": "disco",
+    "titulo": "laughing stock",
+    "autor": "talk talk",
+    "resena": "mark hollis disolvió el synth-pop en silencio y encontró algo sagrado. grabado con músicos de jazz en una iglesia oscura durante meses. el resultado no es música, es meditación involuntaria. el álbum que mató la carrera del grupo y los inmortalizó simultáneamente.",
+    "vibe": "trascendente",
+    "link_afiliado": "https://www.discogs.com/PLACEHOLDER-talk-talk-laughing-stock"
+  },
+  {
+    "id": 7,
+    "tipo": "disco",
+    "titulo": "souvlaki",
+    "autor": "slowdive",
+    "resena": "shoegaze como forma de rendición. rachel goswell y neil halstead construyeron muros de reverb para no tener que hablar con nadie. escucharlo es entender que la melancolía puede ser arquitectónica. los críticos los destruyeron en 1993. la historia les cobró la deuda.",
+    "vibe": "etéreo",
+    "link_afiliado": "https://www.discogs.com/PLACEHOLDER-slowdive-souvlaki"
+  },
+  {
+    "id": 8,
+    "tipo": "disco",
+    "titulo": "the great destroyer",
+    "autor": "low",
+    "resena": "alan sparhawk tomó el slowcore que él mismo inventó y lo quemó con distorsión industrial. una crisis de fe grabada con pedales de guitarra. demasiado lento para el rock, demasiado violento para el folk. la canción 'california' sola justifica la existencia del ruido.",
+    "vibe": "catártico",
+    "link_afiliado": "https://www.discogs.com/PLACEHOLDER-low-great-destroyer"
+  },
+  {
+    "id": 9,
+    "tipo": "disco",
+    "titulo": "rome wasn't built in a day",
+    "autor": "black devil disco club",
+    "resena": "grabado en los 70, descubierto en los 90, incomprendido para siempre. electrónica francesa paranoica que suena como si giorgio moroder tuviera una pesadilla en un sótano. el tiempo no le hizo nada porque ya nacía fuera del tiempo.",
+    "vibe": "claustrofóbico",
+    "link_afiliado": "https://www.discogs.com/PLACEHOLDER-black-devil-disco-club"
+  },
+  {
+    "id": 10,
+    "tipo": "disco",
+    "titulo": "i care because you do",
+    "autor": "aphex twin",
+    "resena": "richard d. james construyó emociones que no tienen nombre en ningún idioma. ni siquiera ambient, ni siquiera techno: es música para estados mentales que la psiquiatría todavía no clasificó. escuchar 'alberto balsalm' y no llorar es una señal de alarma.",
+    "vibe": "disociativo",
+    "link_afiliado": "https://www.discogs.com/PLACEHOLDER-aphex-twin-i-care"
+  },
+  {
+    "id": 11,
+    "tipo": "libro",
+    "titulo": "el almuerzo desnudo",
+    "autor": "william s. burroughs",
+    "resena": "no es una novela, es un sistema operativo infectado. burroughs cortó el lenguaje en pedazos y los reensambló como evidencia de un crimen que todavía no ocurrió. leerlo en orden lineal es un error. el sentido aparece en los bordes, donde la página está a punto de romperse.",
+    "vibe": "alucinógeno",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-almuerzo-desnudo"
+  },
+  {
+    "id": 12,
+    "tipo": "libro",
+    "titulo": "la conjura de los necios",
+    "autor": "john kennedy toole",
+    "resena": "el autor se suicidó antes de verlo publicado. su madre lo vendió puerta a puerta durante años. ganó el pulitzer. ignatius reilly es el personaje más incómodo de la literatura americana porque tiene razón en todo y es completamente insoportable. una tragedia cómica sobre vivir fuera de época.",
+    "vibe": "grotesco",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-conjura-necios"
+  },
+  {
+    "id": 13,
+    "tipo": "libro",
+    "titulo": "ser y tiempo",
+    "autor": "martin heidegger",
+    "resena": "heidegger inventó palabras nuevas porque las existentes no podían contener lo que quería decir sobre la muerte y la autenticidad. denso como una estrella de neutrones. cada página pesa. quien llegue al dasein sin rendirse entiende por qué la filosofía continental aterroriza a los analíticos.",
+    "vibe": "existencial",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-ser-y-tiempo"
+  },
+  {
+    "id": 14,
+    "tipo": "libro",
+    "titulo": "la insoportable levedad del ser",
+    "autor": "milan kundera",
+    "resena": "kundera usó la invasión soviética de checoslovaquia como excusa para escribir el tratado más elegante sobre la imposibilidad de vivir con coherencia. el amor como trampa filosófica. la historia como broma pesada. leerlo a los 20 te destruye; a los 40 te explica.",
+    "vibe": "melancólico",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-insoportable-levedad"
+  },
+  {
+    "id": 15,
+    "tipo": "libro",
+    "titulo": "vigilar y castigar",
+    "autor": "michel foucault",
+    "resena": "foucault demostró que las prisiones y las escuelas y los hospitales son el mismo edificio con diferente cartel. el panóptico como metáfora de todo. después de leerlo, cada cámara de seguridad se convierte en un síntoma. incómodo, brillante, y ya completamente vigente.",
+    "vibe": "panóptico",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-vigilar-castigar"
+  },
+  {
+    "id": 16,
+    "tipo": "libro",
+    "titulo": "la carretera",
+    "autor": "cormac mccarthy",
+    "resena": "mccarthy eliminó las comillas, los nombres y la esperanza. quedó el amor paterno como única resistencia contra el apocalipsis. no hay villanos porque el sistema colapsó antes de que el libro empiece. la prosa más austera del siglo xxi narrando el fin de todo con una ternura insoportable.",
+    "vibe": "terminal",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-la-carretera"
+  },
+  {
+    "id": 17,
+    "tipo": "libro",
+    "titulo": "el maestro y margarita",
+    "autor": "mijail bulgakov",
+    "resena": "bulgakov escribió esto mientras stalin gobernaba y lo escondió. el diablo visita moscú soviético y nadie actúa distinto a como lo haría con cualquier funcionario. la crítica más feroz al totalitarismo disfrazada de comedia sobrenatural. fue publicado 26 años después de su muerte.",
+    "vibe": "satírico",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-maestro-margarita"
+  },
+  {
+    "id": 18,
+    "tipo": "libro",
+    "titulo": "simulacra y simulación",
+    "autor": "jean baudrillard",
+    "resena": "baudrillard mató lo real antes de que internet pudiera hacerlo. el mapa precede al territorio. las copias ya no copian nada porque el original desapareció. matrix puso el libro en escena pero no entendió la tesis. la teoría más perturbadora sobre por qué nada de lo que ves importa.",
+    "vibe": "hiperreal",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-simulacra-simulacion"
+  },
+  {
+    "id": 19,
+    "tipo": "libro",
+    "titulo": "lolita",
+    "autor": "vladimir nabokov",
+    "resena": "el narrador más poco confiable de la historia usando el idioma inglés con una precisión que avergüenza a los angloparlantes nativos. nabokov construyó una trampa: el lenguaje hermoso oculta el horror. entenderlo completamente es entender cómo funciona toda propaganda.",
+    "vibe": "perturbador",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-lolita-nabokov"
+  },
+  {
+    "id": 20,
+    "tipo": "libro",
+    "titulo": "el proceso",
+    "autor": "franz kafka",
+    "resena": "kafka murió sin terminarla y aun así es la novela más completa sobre el siglo xx. joseph k es arrestado sin cargos y el sistema judicial es un laberinto diseñado para no ser comprendido. publicada póstumamente contra su voluntad explícita. incluso su legado quedó atrapado en la burocracia.",
+    "vibe": "kafkiano",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-el-proceso-kafka"
+  },
+  {
+    "id": 21,
+    "tipo": "película",
+    "titulo": "eraserhead",
+    "autor": "david lynch",
+    "resena": "lynch tardó cinco años en hacer este cortometraje que mutó en largo porque no tenía dinero. un hombre, un bebé monstruoso, una radiadora que canta. el inconsciente masculino ante la paternidad filmado como pesadilla industrial. no hay interpretación correcta porque no hay mensaje, solo sensación.",
+    "vibe": "onírico",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-eraserhead"
+  },
+  {
+    "id": 22,
+    "tipo": "película",
+    "titulo": "stalker",
+    "autor": "andrei tarkovsky",
+    "resena": "tarkovsky filmó el trayecto hacia una habitación donde se cumplen los deseos más profundos y el resultado es que nadie quiere entrar. tres horas de barro, agua y silencio existencial. la zona es el subconsciente, el guía es un cristo derrotado. el cine más lento que existe y el que más duele.",
+    "vibe": "contemplativo",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-stalker-tarkovsky"
+  },
+  {
+    "id": 23,
+    "tipo": "película",
+    "titulo": "possession",
+    "autor": "andrzej żuławski",
+    "resena": "isabelle adjani ganó en cannes por interpretar una crisis nerviosa de quince minutos en el metro de berlín occidental. el muro al fondo no es decorado, es personaje. una película de divorcio filmada como horror cósmico. żuławski dijo que era autobiográfica. su ex esposa dijo que era exacta.",
+    "vibe": "histérico",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-possession-zulawski"
+  },
+  {
+    "id": 24,
+    "tipo": "película",
+    "titulo": "el topo",
+    "autor": "alejandro jodorowsky",
+    "resena": "jodorowsky filmó un western psicomágico con su hijo de cuatro años como actor sin su consentimiento. john lennon la convirtió en película de culto financiándola. cada imagen es un símbolo alquímico que jodo mismo no puede explicar completamente. el cine como chamanismo o como fraude. probablemente ambos.",
+    "vibe": "surrealista",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-el-topo"
+  },
+  {
+    "id": 25,
+    "tipo": "película",
+    "titulo": "videodrome",
+    "autor": "david cronenberg",
+    "resena": "cronenberg predijo youtube, la adicción a pantallas y la fusión carne-tecnología en 1983. james woods recibe señales de tv que le hacen crecer un orificio en el estómago. la carne es el nuevo televisor. nadie entendió la metáfora entonces. ahora es un documental.",
+    "vibe": "visceral",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-videodrome"
+  },
+  {
+    "id": 26,
+    "tipo": "película",
+    "titulo": "santa sangre",
+    "autor": "alejandro jodorowsky",
+    "resena": "un niño de circo ve cómo su madre pierde los brazos y su padre se suicida. de adulto se convierte en los brazos de su madre. terror psicológico filmado como ópera mexicana. cronenberg dijo que era la mejor película de horror que había visto. jodo dice que no es horror sino amor.",
+    "vibe": "traumático",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-santa-sangre"
+  },
+  {
+    "id": 27,
+    "tipo": "película",
+    "titulo": "teorema",
+    "autor": "pier paolo pasolini",
+    "resena": "un extraño visita una familia burguesa milanesa y tiene sexo con todos, incluido el mayordomo. luego se va. cada miembro colapsa de manera diferente. pasolini usó a terence stamp como agente del sagrado y del caos simultáneamente. la iglesia la condenó. él fue asesinado seis años después.",
+    "vibe": "blasfemo",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-teorema-pasolini"
+  },
+  {
+    "id": 28,
+    "tipo": "película",
+    "titulo": "cabeza borradora",
+    "autor": "david lynch",
+    "resena": "segunda entrada de lynch, porque eraserhead merece dos líneas en cualquier lista seria. si la primera entrada no convenció, esta tampoco. el punto es que hay películas que no se ven, se padecen. y algunas vidas cambian en torno a ese padecimiento. así funciona el culto.",
+    "vibe": "industrial",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-lynch-industrial"
+  },
+  {
+    "id": 29,
+    "tipo": "película",
+    "titulo": "pi",
+    "autor": "darren aronofsky",
+    "resena": "filmada en blanco y negro por 60.000 dólares recaudados de amigos y familia. un matemático obsesionado con encontrar el patrón del universo termina taladrándose el cráneo. el número áureo como trampa de dios. aronofsky nunca volvió a hacer algo tan honesto ni tan barato.",
+    "vibe": "paranoico",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-pi-aronofsky"
+  },
+  {
+    "id": 30,
+    "tipo": "película",
+    "titulo": "cabaret",
+    "autor": "bob fosse",
+    "resena": "berlín 1931. el kit kat klub como último refugio antes del nazismo. liza minnelli bailando mientras el mundo se organiza afuera para destruirse. fosse entendió que el entretenimiento no es evasión sino complicidad. la canción 'money' suena hoy exactamente igual que entonces. eso no es nostalgia, es advertencia.",
+    "vibe": "decadente",
+    "link_afiliado": "https://www.amazon.com/PLACEHOLDER-cabaret-fosse"
+  }
+]
